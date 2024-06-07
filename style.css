@@ -11,3 +11,7 @@ h2{
     color: green;
     font-size:1.5rem;
 }
+
+body{
+    background-image: bg.png;
+}
